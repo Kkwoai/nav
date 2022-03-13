@@ -31,12 +31,6 @@
   "simThemeAutoplay": true,
   "sideThemeImages": [
     {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
       "url": "",
       "width": null,
@@ -44,7 +38,7 @@
     }
   ],
   "sideThemeHeight": 350,
-  "sideThemeAutoplay": true,
+  "sideThemeAutoplay": false,
   "shortcutThemeShowWeather": true,
   "shortcutThemeImages": [
     {
